@@ -57,11 +57,11 @@ This project focuses on forecasting **Apple Inc. (AAPL)** stock prices using Pyt
 
 | Field | Details |
 |--------|----------|
-| **Author** | [Your Name](https://github.com/yourusername) |
+| **Author** | [Mohamad Yasid Zidane](https://github.com/myzidane-portfolio) |
 | **Project** | Stock Forecasting Analysis using Python & ARIMA |
-| **Contact** | your.email@example.com |
+| **Contact** | mohamadyasidzidane@gmail.com |
 | **License** | MIT License |
-| **Repository** | [GitHub - Stock Price Forecasting](https://github.com/yourusername/stock-price-forecasting) |
+| **Repository** | [GitHub - Stock Price Forecasting](https://github.com/myzidane-portfolio/stock-price-forecasting) |
 
 ---
 
